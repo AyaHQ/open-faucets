@@ -63,4 +63,4 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for det
 This project is licensed under the [MIT License](LICENSE).
 
 ## Community
-- Report issues or suggest features in the [Issues](https://github.com/ayaHQ/OpenFaucet/issues) tab.
+- Report issues or suggest features in the [Issues](https://github.com/ayaHQ/open-faucets/issues) tab.
