@@ -11,7 +11,7 @@ const Header = () => {
     <div className='sticky top-0 z-50 flex flex-col'> 
     {/* Banner Section */}
         <div className='banner flex justify-center items-center text-xs md:text-sm h-[2rem] md:h-[2rem] bg-gradient-to-r from-[#021e60] to-[#004eeb] text-white'>
-          <p>An open-source faucet, built for the community by the community. {' '} 
+          <p>An open-source EVM faucet, built for the community by the community. {' '} 
             <a href='https://www.ayahq.com/'>Powered by <span className='cursor-pointer underline underline-offset-1'>AyaHQ</span></a>
           </p>
         </div>
@@ -26,7 +26,7 @@ const Header = () => {
               <Link href='/solutions'className='px-4 hover:bg-[#021e60] hover:text-white transition delay-100 ease-in'>Developers</Link>
               <Link href='/company' className='px-4 hover:bg-[#021e60] hover:text-white transition delay-100 ease-in'>Company</Link>
               <Link href='/resources' className='px-4 hover:bg-[#021e60] hover:text-white transition delay-100 ease-in'>Resources</Link>
-            </div>
+            </div>  
             <div className='modes border p-2 flex items-center rounded md:text-lg'>
               <button><LuSun /></button>
             </div>
